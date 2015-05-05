@@ -1,0 +1,12 @@
+- 
+  name: Safari
+  path: /Library/Safari
+  process: "[S]afari"
+- 
+  name: Chrome
+  path: /Library/Application Support/Google/Chrome
+  process: "[C]hrome$"
+- 
+  name: Firefox
+  path: /Library/Application Support/Firefox/Profiles
+  process: "[f]irefox$"
